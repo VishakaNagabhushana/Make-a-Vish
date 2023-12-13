@@ -1,2 +1,2 @@
-# Make-a-Vish
+# VishakaNagabhushana
 Vishaka's student website
